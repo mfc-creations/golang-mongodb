@@ -15,7 +15,7 @@ import (
 	"go.mongodb.org/mongo-driver/mongo/options"
 )
 
-const connectionString = "mongodb+srv://mfc:mfc786@cluster0.1fg3e.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+const connectionString = ""  // Use ur URI
 const dbName = "netflix"
 const colName = "watchlist"
 
